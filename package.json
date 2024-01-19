@@ -1,6 +1,6 @@
 {
   "name": "@freeloop/tailwindcss-text-plugins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Text plugins for tailwindcss.",
   "main": "src/index.js",
   "scripts": {
